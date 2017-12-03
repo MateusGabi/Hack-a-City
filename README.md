@@ -30,6 +30,7 @@ O serviço contendo as regras de negócio  da aplicação foi desenvolvido em Py
     - `pip install flask_cors`
     - `pip install es_sql`
     - `pip install datetime`
+    - `pip install geopy.distance`
 - Execute o main:
     - `python api.py`
 - Execute:
@@ -37,7 +38,7 @@ O serviço contendo as regras de negócio  da aplicação foi desenvolvido em Py
 
 ## Aplicação Web
 
-A aplicação cliente foi desenvolvida utilizando os Frameworks Angular 2 e Material Design Lite respectivamente para as estruturas lógicas e layout.
+A aplicação cliente para a web foi desenvolvida utilizando os Frameworks [Angular 2](https://angular.io/) e [Material Design](https://github.com/google/material-design-lite) Lite respectivamente para as estruturas lógicas e layout.
 
 ### Instalação
 
